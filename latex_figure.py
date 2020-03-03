@@ -12,7 +12,7 @@ from matplotlib import rc
 # In[4]:
 
 
-rc("text", usetex=True)
+rc("text", usetex=False)
 rc("font", family="serif")
 
 # These figure sizes should correspond with the size in the LaTeX document.
